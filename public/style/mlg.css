@@ -1,0 +1,48 @@
+* {
+  font-family: sans-serif;
+  background: brown;
+  margin: 20px 15px;
+}
+
+header {
+  border: solid;
+  margin-right: 400px;
+  float: left;
+}
+
+nav {
+  float: right;
+  display: block;
+  margin-right: 30px;
+}
+.separator{
+  display: block;
+  text-align: center;
+  margin-top: auto;
+}
+
+.Arknights {
+  border: solid;
+  margin: 20px;
+}
+
+.ArkImg {
+  width: 120px;
+  text-align: left;
+  display: block;
+}
+
+.GuardianTales {
+  margin: 20px;
+  border: solid;
+}
+.Reverse1999 {
+  border: solid;
+  margin: 20px;
+}
+
+.footer1 {
+  margin-top: auto;
+  text-align: center;
+  display: block;
+}
