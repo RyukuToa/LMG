@@ -6,39 +6,43 @@
 
 header {
   border: solid;
-  margin-right: 400px;
-  float: left;
+  margin-inline-start: ;
+}
+.peligono {
+  border: solid;
 }
 
-nav {
+.nav {
   float: right;
   display: block;
   margin-right: 30px;
 }
-.separator{
+.separator {
   display: block;
   text-align: center;
   margin-top: auto;
 }
 
 .Arknights {
-  border: solid;
+  margin-bottom: 75px;
   margin: 20px;
 }
 
 .ArkImg {
-  width: 120px;
-  text-align: left;
+  width: 55px;
   display: block;
 }
 
+.mensa {
+  margin-left: 45px;
+}
 .GuardianTales {
   margin: 20px;
-  border: solid;
+  margin-bottom: 75px;
 }
 .Reverse1999 {
-  border: solid;
   margin: 20px;
+  margin-bottom: 75px;
 }
 
 .footer1 {
