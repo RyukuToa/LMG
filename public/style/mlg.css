@@ -1,52 +1,28 @@
 * {
-  font-family: sans-serif;
-  background: brown;
-  margin: 20px 15px;
+  font: SUSE;
+  font-size: 18px;
+  margin: 5px;
 }
-
-header {
-  border: solid;
-  margin-inline-start: ;
+body {
+  background: #80ab82;
 }
-.peligono {
-  border: solid;
+.navegacion {
+  background: #7dcd85;
 }
-
-.nav {
-  float: right;
-  display: block;
-  margin-right: 30px;
-}
-.separator {
-  display: block;
+.adts {
   text-align: center;
   margin-top: auto;
 }
-
-.Arknights {
-  margin-bottom: 75px;
+.BtWaydroihd {
+  margin-left: 1000px;
+  float: inline-end;
+}
+.imgapp {
   margin: 20px;
+  width: 3%;
 }
-
-.ArkImg {
-  width: 55px;
-  display: block;
-}
-
-.mensa {
-  margin-left: 45px;
-}
-.GuardianTales {
-  margin: 20px;
-  margin-bottom: 75px;
-}
-.Reverse1999 {
-  margin: 20px;
-  margin-bottom: 75px;
-}
-
-.footer1 {
-  margin-top: auto;
+.licencia {
   text-align: center;
-  display: block;
+  margin-top: 15px;
+  background-color: #7dcd85;
 }
